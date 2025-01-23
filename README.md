@@ -9,7 +9,9 @@ Together, Python and MySQL bring magic to this project. Python helps us build a 
 Ultimately, the project is born out of a commitment to improving the gaming cafe landscape, making it more accessible, enjoyable, and technologically advanced for both owners and gamers alike.
 
 
-This project aims to develop a "Gaming Cafe Management System" to streamline operations for gaming cafes. Key features include:
+This project aims to develop a "Gaming Cafe Management System" to streamline operations for gaming cafes.
+
+Key features include:
 
 Player Details: Efficiently input and manage information about gamers who frequent the cafe.
 
